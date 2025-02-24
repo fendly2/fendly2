@@ -10,3 +10,4 @@
 fendly2/fendly2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+thank you all, update on 2025/2/24
